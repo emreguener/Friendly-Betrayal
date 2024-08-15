@@ -1,0 +1,48 @@
+C:\Users\emreguener\Desktop\C# PROJELER\BC_version1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.Form1.resources
+C:\Users\emreguener\Desktop\C# PROJELER\BC_version1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.csproj.GenerateResource.cache
+C:\Users\emreguener\Desktop\C# PROJELER\BC_version1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emreguener\Desktop\C# PROJELER\BC_version1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.AssemblyInfoInputs.cache
+C:\Users\emreguener\Desktop\C# PROJELER\BC_version1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.AssemblyInfo.cs
+C:\Users\emreguener\Desktop\C# PROJELER\BC_version1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.csproj.CoreCompileInputs.cache
+C:\Users\emreguener\Desktop\C# PROJELER\BC_version1\Friendly_Betrayal\bin\Debug\net8.0-windows\Friendly_Betrayal.exe
+C:\Users\emreguener\Desktop\C# PROJELER\BC_version1\Friendly_Betrayal\bin\Debug\net8.0-windows\Friendly_Betrayal.deps.json
+C:\Users\emreguener\Desktop\C# PROJELER\BC_version1\Friendly_Betrayal\bin\Debug\net8.0-windows\Friendly_Betrayal.runtimeconfig.json
+C:\Users\emreguener\Desktop\C# PROJELER\BC_version1\Friendly_Betrayal\bin\Debug\net8.0-windows\Friendly_Betrayal.dll
+C:\Users\emreguener\Desktop\C# PROJELER\BC_version1\Friendly_Betrayal\bin\Debug\net8.0-windows\Friendly_Betrayal.pdb
+C:\Users\emreguener\Desktop\C# PROJELER\BC_version1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.dll
+C:\Users\emreguener\Desktop\C# PROJELER\BC_version1\Friendly_Betrayal\obj\Debug\net8.0-windows\refint\Friendly_Betrayal.dll
+C:\Users\emreguener\Desktop\C# PROJELER\BC_version1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.pdb
+C:\Users\emreguener\Desktop\C# PROJELER\BC_version1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.genruntimeconfig.cache
+C:\Users\emreguener\Desktop\C# PROJELER\BC_version1\Friendly_Betrayal\obj\Debug\net8.0-windows\ref\Friendly_Betrayal.dll
+C:\Users\batur\Downloads\Friendly_Betrayal_v1.1\Friendly_Betrayal\bin\Debug\net8.0-windows\Friendly_Betrayal.exe
+C:\Users\batur\Downloads\Friendly_Betrayal_v1.1\Friendly_Betrayal\bin\Debug\net8.0-windows\Friendly_Betrayal.deps.json
+C:\Users\batur\Downloads\Friendly_Betrayal_v1.1\Friendly_Betrayal\bin\Debug\net8.0-windows\Friendly_Betrayal.runtimeconfig.json
+C:\Users\batur\Downloads\Friendly_Betrayal_v1.1\Friendly_Betrayal\bin\Debug\net8.0-windows\Friendly_Betrayal.dll
+C:\Users\batur\Downloads\Friendly_Betrayal_v1.1\Friendly_Betrayal\bin\Debug\net8.0-windows\Friendly_Betrayal.pdb
+C:\Users\batur\Downloads\Friendly_Betrayal_v1.1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.Form1.resources
+C:\Users\batur\Downloads\Friendly_Betrayal_v1.1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.csproj.GenerateResource.cache
+C:\Users\batur\Downloads\Friendly_Betrayal_v1.1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batur\Downloads\Friendly_Betrayal_v1.1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.AssemblyInfoInputs.cache
+C:\Users\batur\Downloads\Friendly_Betrayal_v1.1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.AssemblyInfo.cs
+C:\Users\batur\Downloads\Friendly_Betrayal_v1.1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.csproj.CoreCompileInputs.cache
+C:\Users\batur\Downloads\Friendly_Betrayal_v1.1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.dll
+C:\Users\batur\Downloads\Friendly_Betrayal_v1.1\Friendly_Betrayal\obj\Debug\net8.0-windows\refint\Friendly_Betrayal.dll
+C:\Users\batur\Downloads\Friendly_Betrayal_v1.1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.pdb
+C:\Users\batur\Downloads\Friendly_Betrayal_v1.1\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.genruntimeconfig.cache
+C:\Users\batur\Downloads\Friendly_Betrayal_v1.1\Friendly_Betrayal\obj\Debug\net8.0-windows\ref\Friendly_Betrayal.dll
+C:\Users\emreguener\Desktop\Friendly Betrayal Versiyonlar\Friendly_Betrayal_v1.2\Friendly_Betrayal\bin\Debug\net8.0-windows\Friendly_Betrayal.exe
+C:\Users\emreguener\Desktop\Friendly Betrayal Versiyonlar\Friendly_Betrayal_v1.2\Friendly_Betrayal\bin\Debug\net8.0-windows\Friendly_Betrayal.deps.json
+C:\Users\emreguener\Desktop\Friendly Betrayal Versiyonlar\Friendly_Betrayal_v1.2\Friendly_Betrayal\bin\Debug\net8.0-windows\Friendly_Betrayal.runtimeconfig.json
+C:\Users\emreguener\Desktop\Friendly Betrayal Versiyonlar\Friendly_Betrayal_v1.2\Friendly_Betrayal\bin\Debug\net8.0-windows\Friendly_Betrayal.dll
+C:\Users\emreguener\Desktop\Friendly Betrayal Versiyonlar\Friendly_Betrayal_v1.2\Friendly_Betrayal\bin\Debug\net8.0-windows\Friendly_Betrayal.pdb
+C:\Users\emreguener\Desktop\Friendly Betrayal Versiyonlar\Friendly_Betrayal_v1.2\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.Form1.resources
+C:\Users\emreguener\Desktop\Friendly Betrayal Versiyonlar\Friendly_Betrayal_v1.2\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.csproj.GenerateResource.cache
+C:\Users\emreguener\Desktop\Friendly Betrayal Versiyonlar\Friendly_Betrayal_v1.2\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emreguener\Desktop\Friendly Betrayal Versiyonlar\Friendly_Betrayal_v1.2\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.AssemblyInfoInputs.cache
+C:\Users\emreguener\Desktop\Friendly Betrayal Versiyonlar\Friendly_Betrayal_v1.2\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.AssemblyInfo.cs
+C:\Users\emreguener\Desktop\Friendly Betrayal Versiyonlar\Friendly_Betrayal_v1.2\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.csproj.CoreCompileInputs.cache
+C:\Users\emreguener\Desktop\Friendly Betrayal Versiyonlar\Friendly_Betrayal_v1.2\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.dll
+C:\Users\emreguener\Desktop\Friendly Betrayal Versiyonlar\Friendly_Betrayal_v1.2\Friendly_Betrayal\obj\Debug\net8.0-windows\refint\Friendly_Betrayal.dll
+C:\Users\emreguener\Desktop\Friendly Betrayal Versiyonlar\Friendly_Betrayal_v1.2\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.pdb
+C:\Users\emreguener\Desktop\Friendly Betrayal Versiyonlar\Friendly_Betrayal_v1.2\Friendly_Betrayal\obj\Debug\net8.0-windows\Friendly_Betrayal.genruntimeconfig.cache
+C:\Users\emreguener\Desktop\Friendly Betrayal Versiyonlar\Friendly_Betrayal_v1.2\Friendly_Betrayal\obj\Debug\net8.0-windows\ref\Friendly_Betrayal.dll
