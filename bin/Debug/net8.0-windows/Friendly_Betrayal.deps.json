@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Friendly_Betrayal/1.0.0": {
+        "runtime": {
+          "Friendly_Betrayal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Friendly_Betrayal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

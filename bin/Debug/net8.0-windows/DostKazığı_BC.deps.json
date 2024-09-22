@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DostKazığı_BC/1.0.0": {
+        "runtime": {
+          "DostKazığı_BC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DostKazığı_BC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
